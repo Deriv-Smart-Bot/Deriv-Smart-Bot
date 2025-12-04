@@ -1,24 +1,17 @@
-# Compiled class file
-*.class
+ATTENTION
 
-# Log file
-*.log
+Deriv Smart Bot is just an application that bridges trading in deriv.com by using the 
+strategy you have previously set
 
-# BlueJ files
-*.ctxt
+Deriv Smart Bot does not guarantee any profit in trading at deriv.com
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+The strategy used in the default installation is an example of using a strategy, 
+not a strategy that guarantees you to make a profit, so please develop or 
+create a new strategy in accordance with your trading style
 
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
+The developer of Deriv Smart Bot is not responsible for any losses incurred in using this BOT,
+so please use this BOT in accordance with your trading style and your capital capability
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+Binary option trading may not be suitable for everyone, so make sure you understand the risks involved.
+
+PLEASE TRY IN VIRTUAL TOKEN FIRST
